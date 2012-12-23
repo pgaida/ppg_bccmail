@@ -1,0 +1,2 @@
+--- Beschreibung ---
+Mit diesem Modul kann sich der Shopowner jede vom Shopsystem generierte Mail an eine bestimmte Adresse als BCC schicken lassen. Auf diese Art und Weise hat er einen Überblick über die verschickten Mail und kann ggf. nachvollziehen wann der Kunde welche Mail zugeschickt bekommen hat.
